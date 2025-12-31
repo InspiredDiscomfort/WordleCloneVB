@@ -1,4 +1,4 @@
-# Wordle Clone in VB.NET 🎮
+# Wordle Clone in VB.NET 
 
 A simple Wordle clone built using Visual Basic .NET and Windows Forms.
 
